@@ -1,0 +1,6 @@
+package com.example.SpringGitProject.Model;
+
+public class User {
+private String name;
+private int age;
+}
